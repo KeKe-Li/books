@@ -65,6 +65,7 @@
   * [Go语言实现原理](https://draveness.me/golang/)
   * [ConcurrencyInGo](https://github.com/KeKe-Li/book/blob/master/Go/Concurrency%20in%20Go.pdf)
   * [GoBuildingWebApplications](https://github.com/KeKe-Li/book/blob/master/Go/go-building-web-applications.pdf)
+  * [Go语言圣经](https://github.com/KeKe-Li/books/blob/master/Go/Go%E8%AF%AD%E8%A8%80%E5%9C%A3%E7%BB%8F.pdf)
   * [Machine-Learning-With-Go](https://github.com/KeKe-Li/book/blob/master/Go/Machine-Learning-With-Go.pdf)
   
 #### docker
