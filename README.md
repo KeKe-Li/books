@@ -90,6 +90,7 @@
   * [Linux内核揭密](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
   * [Linux命令大全](http://man.linuxde.net/)
   * [计算机网络：原理，协议和实践](https://www.computer-networking.info/#)
+  * [linux命令工具](https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/index.html)
 #### 大数据
   * [Spark 编程指南简体中文版](https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/)
   * [Hadoop权威指南](https://github.com/KeKe-Li/book/blob/master/Hadoop/hadoop%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf)
