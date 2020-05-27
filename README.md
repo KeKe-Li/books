@@ -113,6 +113,7 @@
   * [Rust in action](https://livebook.manning.com/book/rust-in-action/chapter-1/v-10/)
   * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
   * [Rust 语言导论](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
+  * [用Rust编写操作系统](https://os.phil-opp.com/async-await/)
 #### Wechat
   * [微信公众号开发简介](https://github.com/KeKe-Li/book/blob/master/Wechat/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%BC%80%E5%8F%91%E7%AE%80%E4%BB%8B.pdf)
   * [小程序开发](https://developers.weixin.qq.com/miniprogram/dev/quickstart/basic/getting-started.html)
