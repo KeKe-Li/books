@@ -107,7 +107,7 @@
   * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
   * [Python编程:从入门到实践](https://github.com/KeKe-Li/book/blob/master/Python/Python%E7%BC%96%E7%A8%8B:%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)
 #### Rust
-  * [Rust 程序设计语言](https://kaisery.gitbooks.io/rust-book-chinese/content/)
+  * [Rust程序设计语言](https://kaisery.gitbooks.io/rust-book-chinese/content/)
   * [Rust语言学习笔记](https://photino.gitbooks.io/rust-notes/)
   * [通过例子学习Rust](http://rustcc.github.io/rust-by-example/)
   * [Rust编程语言](https://rustlang-cn.org/office/rust/book/)
