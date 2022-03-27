@@ -225,7 +225,6 @@
   * [Redis设计与实现第二版]()
 #### 消息队列
   * [Kafka中文文档](http://kafka.apachecn.org/)
-  
 #### HTTP
   * [图解HTTP]()  
   * [HTTP权威指南(中文版)]()  
